@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://xiaohui129.github.io/2021/05/06/Win10%E4%BF%AE%E6%94%B9%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%94%A8%E6%88%B7%E5%90%8D/</loc>
+    
+    <lastmod>2021-05-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaohui129.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-04-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaohui129.github.io/2021/04/07/hello-world/</loc>
+    
+    <lastmod>2021-04-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaohui129.github.io/about/index.html</loc>
+    
+    <lastmod>2021-04-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xiaohui129.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-04-09</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://xiaohui129.github.io/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://xiaohui129.github.io/tags/Window10%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaohui129.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%94%A8%E6%88%B7%E5%90%8D/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaohui129.github.io/tags/init/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://xiaohui129.github.io/categories/Hello/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
